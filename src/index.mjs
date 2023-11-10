@@ -1,4 +1,8 @@
 /**
+ * セクション4: モダンJavaScriptの機能に触れる
+ */
+
+/**
  * const, let
  */
 const val = {
